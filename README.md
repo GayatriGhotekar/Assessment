@@ -59,6 +59,6 @@ Month selected from dropdown (above the table) should be applied here
 
 
 
-https://github.com/HarshalMjn/HarshalMjn-mern-stack-coding-challenge/assets/110369391/1194d331-fc6f-4538-9fcb-6789c50ceab0
+
 
 
